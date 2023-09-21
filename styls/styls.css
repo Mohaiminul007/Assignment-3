@@ -1,0 +1,10 @@
+.back_img{
+    background-image: url(/images/banner.png);
+    width: 1170px;
+height: 550px;
+flex-shrink: 0;
+}
+.plain{
+   background-color: #B68C5A;
+
+}
